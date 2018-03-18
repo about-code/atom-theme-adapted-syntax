@@ -1,0 +1,16 @@
+{
+  "name": "atom-theme-adapted-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme integrating with atom-theme-adapted-ui",
+  "keywords": [
+    "syntax",
+    "theme",
+    "adapta"
+  ],
+  "repository": "https://github.com/atom/atom-theme-adapted-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
