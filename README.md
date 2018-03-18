@@ -3,7 +3,7 @@
 
 # atom-theme-adapted-syntax
 
-An [Atom](https://atom.io) syntax theme integrating with [Adapta](https://github.com/about-code/atom-theme-adapted-ui) UI theme.
+An [Atom](https://atom.io) syntax theme integrating with [atom-theme-adapted-ui](https://github.com/about-code/atom-theme-adapted-ui) UI theme.
 
 ----
 
