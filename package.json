@@ -3,6 +3,7 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Syntax theme integrating with atom-theme-adapted-ui",
+  "author": "Andreas Martin",
   "keywords": [
     "syntax",
     "theme",
