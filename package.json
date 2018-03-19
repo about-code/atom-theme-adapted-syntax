@@ -9,7 +9,7 @@
     "theme",
     "adapta"
   ],
-  "repository": "https://github.com/atom/atom-theme-adapted-syntax",
+  "repository": "https://github.com/about-code/atom-theme-adapted-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
