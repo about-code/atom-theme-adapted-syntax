@@ -1,7 +1,7 @@
 {
   "name": "atom-theme-adapted-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syntax theme integrating with atom-theme-adapted-ui",
   "author": "Andreas Martin",
   "keywords": [
